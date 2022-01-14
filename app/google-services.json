@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748377982191",
+    "firebase_url": "https://htlbraunaufcmtest.firebaseio.com",
+    "project_id": "htlbraunaufcmtest",
+    "storage_bucket": "htlbraunaufcmtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748377982191:android:f8f42fcb575b2f14",
+        "android_client_info": {
+          "package_name": "at.htlbraunau.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748377982191-46pm01i3aii4a9nke9lb5cro0n7ci8a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.htlbraunau.fcmtest",
+            "certificate_hash": "2f4ef7a81c2f3066016bf0ee281367156f3c6ad6"
+          }
+        },
+        {
+          "client_id": "748377982191-j9q0lo39kfr60j4eig385ul8ani5ov5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeM5kzzHZnPJ9Q8bus-KyNSEscW0mdJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748377982191-j9q0lo39kfr60j4eig385ul8ani5ov5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
